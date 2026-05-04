@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# MATLAB autosave / backup files
+*.asv
+*.autosave
+*.m~
+
+# Simulink generated/cache folders
+slprj/
+*.slxc
+
+# MATLAB compiled / generated binaries
+*.mex*
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Python, just in case
+__pycache__/
+*.pyc
+.venv/
+venv/
